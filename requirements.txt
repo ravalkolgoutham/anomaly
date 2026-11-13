@@ -1,0 +1,6 @@
+pandas
+xgboost
+scikit-learn
+requests
+tree-sitter
+tree-sitter-cpp
